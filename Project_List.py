@@ -16,7 +16,7 @@ st.title('My Portfolio Project')
 st.markdown("""
 Hello, you can contact me here:
 
-My Email: nurmuhammadherlim@gmail.com
+My Email: nurmuhammadherlim@gmail.com \n
 LinkedIn: https://www.linkedin.com/in/nur-muhammad-herlim/
 """)
 st.markdown("""---""")
