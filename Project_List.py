@@ -12,7 +12,15 @@ st.set_page_config(
     page_title="Nur's Portofolio",
 )
 st.title('My Portfolio Project')
+
+st.markdown("""
+Hello, you can contact me here:
+
+My Email: nurmuhammadherlim@gmail.com
+LinkedIn: https://www.linkedin.com/in/nur-muhammad-herlim/
+""")
 st.markdown("""---""")
+
 url1 = "https://bit.ly/RxPy_Streamlit"
 url2 = "https://bit.ly/gbooks_analysis_st"
 st.header("""
