@@ -13,8 +13,7 @@ st.set_page_config(
 )
 st.title('My Portfolio Project')
 st.markdown("""
-Hello, welcome to my project list. In this page, i will show all project that i have done. It contains description about the project and it's link if you want to see the project. It might not be a perfect one, but i'm open for any suggestion :) \n
-Enjoy!!!
+Hello, welcome to my project list. In this page, i will show all project that i have done. It contains description about the project and it's link if you want to see the project. It might not be a perfect one, but i'm open for any suggestion :)
 """)
 st.markdown("""
 For futher information, you can contact me here:
