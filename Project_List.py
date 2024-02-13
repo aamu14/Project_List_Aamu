@@ -12,10 +12,12 @@ st.set_page_config(
     page_title="Nur's Portofolio",
 )
 st.title('My Portfolio Project')
-
+st.header("""
+Hello, welcome to my project list. In this page, i will show all project that i have done. It contains description about the project and it's link if you want to see the project. It might not be a perfect one, but i'm open for any suggestion :) \n
+Enjoy!!!
+""")
 st.markdown("""
-Hello, you can contact me here:
-
+For futher information, you can contact me here:
 My Email: nurmuhammadherlim@gmail.com \n
 LinkedIn: https://www.linkedin.com/in/nur-muhammad-herlim/
 """)
