@@ -25,7 +25,7 @@ st.markdown("""---""")
 
 url1 = "https://bit.ly/RxPy_Streamlit"
 url2 = "https://bit.ly/gbooks_analysis_st"
-st.header("""
+st.markdown("""
 This is the project that I have already completed. I sorted it in reverse order to showcase the newest project at the beginning: \n       
 """) 
 
