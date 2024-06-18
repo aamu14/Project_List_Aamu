@@ -1,8 +1,6 @@
 import streamlit as st
 import subprocess
 import matplotlib.pyplot as plt
-from PIL import Image
-from st_aggrid import AgGrid
 import seaborn as sns
 import pandas as pd
 import numpy as np
