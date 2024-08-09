@@ -24,8 +24,8 @@ st.markdown("""---""")
 url1 = "https://bit.ly/RxPy_Streamlit"
 url2 = "https://bit.ly/gbooks_analysis_st"
 url3 = "bit.ly/SalarySurveyHRDBCT3"
-ulr4 = "bit.ly/VisualizationEstimatedSalarySurvey"
-ulr5 = "bit.ly/3WGmBUv"
+url4 = "bit.ly/VisualizationEstimatedSalarySurvey"
+url5 = "bit.ly/3WGmBUv"
 
 st.markdown("""
 This is the project that I have already completed. I sorted it in reverse order to showcase the newest project at the beginning: \n       
