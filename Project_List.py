@@ -17,7 +17,8 @@ st.markdown("""---""")
 st.markdown("""
 For futher information, you can contact me here: \n
 My Email: nurmuhammadherlim@gmail.com \n
-LinkedIn: https://www.linkedin.com/in/nur-muhammad-herlim/
+LinkedIn: https://www.linkedin.com/in/nur-muhammad-herlim/ \n
+Github: https://github.com/aamu14
 """)
 st.markdown("""---""")
 
