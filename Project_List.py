@@ -34,7 +34,7 @@ This is the project that I have already completed. I sorted it in reverse order 
 #--------------------------------------------------------------------------------------
 
 st.subheader("""
-             4. Simple EDA using Online Retail Dataset (In Indonesia)
+             4. Simple EDA using Online Retail Dataset (In English)
              """)
 st.markdown("""
             This project involves a simple exploratory data analysis (EDA) using the Online Retail Dataset. You can see the result on this link: 
@@ -42,7 +42,7 @@ st.markdown("""
             """ % url4)
 #--------------------------------------------------------------------------------------
 st.subheader("""
-             3. Visualization of Salary Survey HRDBCT 3.0 (In Indonesia)
+             3. Visualization of Salary Survey HRDBCT 3.0 (Dashboard in Indonesia)
              """)
 st.markdown("""
             This dashboard was created to show the visualization of the Salary Survey and how the dashboard interacted. You can see the result on this link: 
