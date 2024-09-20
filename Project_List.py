@@ -24,12 +24,23 @@ st.markdown("""---""")
 url1 = "https://bit.ly/RxPy_Streamlit"
 url2 = "https://bit.ly/gbooks_analysis_st"
 url3 = "https://vizpowerbi1.streamlit.app/"
-
+url4 = "https://simple-eda-online-retail.streamlit.app/"
 st.markdown("""
 This is the project that I have already completed. I sorted it in reverse order to showcase the newest project at the beginning: \n       
 """) 
 #--------------------------------------------------------------------------------------
 
+
+#--------------------------------------------------------------------------------------
+
+st.subheader("""
+             4. Simple EDA using Online Retail Dataset (In Indonesia)
+             """)
+st.markdown("""
+            This project involves a simple exploratory data analysis (EDA) using the Online Retail Dataset. You can see the result on this link: 
+            %s
+            """ % url4)
+#--------------------------------------------------------------------------------------
 st.subheader("""
              3. Visualization of Salary Survey HRDBCT 3.0 (In Indonesia)
              """)
